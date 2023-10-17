@@ -42,7 +42,7 @@ To jump straight to examples, go [here](https://github.com/coral-xyz/anchor/tree
 ## Note
 
 - **Anchor is in active development, so all APIs are subject to change.**
-- **This code is unaudited. Use at your own risk.**
+- **This code is unaudited. Use at your own risk fellers.**
 
 ## Examples
 
@@ -101,7 +101,7 @@ and [tests](https://github.com/coral-xyz/anchor/tree/master/tests) directories.
 
 Anchor is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted
+Unless you state otherwise, any contribution intentionally submitted
 for inclusion in Anchor by you, as defined in the Apache-2.0 license, shall be
 licensed as above, without any additional terms or conditions.
 
